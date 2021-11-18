@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/agarcia17948/deploy1/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/agarcia17948/deploy1/static/js/main.11b8a080.chunk.js",
+    "main.js.map": "/agarcia17948/deploy1/static/js/main.11b8a080.chunk.js.map",
+    "runtime-main.js": "/agarcia17948/deploy1/static/js/runtime-main.900bfc93.js",
+    "runtime-main.js.map": "/agarcia17948/deploy1/static/js/runtime-main.900bfc93.js.map",
+    "static/js/2.52ee51b8.chunk.js": "/agarcia17948/deploy1/static/js/2.52ee51b8.chunk.js",
+    "static/js/2.52ee51b8.chunk.js.map": "/agarcia17948/deploy1/static/js/2.52ee51b8.chunk.js.map",
+    "static/js/3.447b3ca7.chunk.js": "/agarcia17948/deploy1/static/js/3.447b3ca7.chunk.js",
+    "static/js/3.447b3ca7.chunk.js.map": "/agarcia17948/deploy1/static/js/3.447b3ca7.chunk.js.map",
+    "index.html": "/agarcia17948/deploy1/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/agarcia17948/deploy1/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.52ee51b8.chunk.js.LICENSE.txt": "/agarcia17948/deploy1/static/js/2.52ee51b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/agarcia17948/deploy1/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900bfc93.js",
+    "static/js/2.52ee51b8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.11b8a080.chunk.js"
+  ]
+}
